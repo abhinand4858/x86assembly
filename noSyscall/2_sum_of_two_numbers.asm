@@ -3,8 +3,8 @@ extern scanf
 
 section .data
 	inp: db "%d"
-	out: db "Sum is %d"
-	print: db "Enter the number:"
+	out: db "Sum is %d", 10, 0
+	print: db "Enter the number:", 0
 	x: dd 0
 	y: dd 0
 

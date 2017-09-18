@@ -1,4 +1,4 @@
-## PROGRAMS TO BE IMPLEMENTED USING X86 ASSEMBLY LANGUAGE
+## PROGRAMS TO BE IMPLEMENTED USING x86 ASSEMBLY LANGUAGE
 
  * Print “Hello World”.
  * Read two numbers from user and print their sum.
